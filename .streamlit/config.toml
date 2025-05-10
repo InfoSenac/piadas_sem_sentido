@@ -1,0 +1,7 @@
+[theme]
+base="light"
+primaryColor="#02ef79"
+backgroundColor="#c0fffc"
+secondaryBackgroundColor="#32ffa7"
+textColor="#172dbf"
+font = "cool-font, fallback-cool-font, monospace"
