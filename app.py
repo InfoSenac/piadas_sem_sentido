@@ -48,19 +48,6 @@ def mostrar_resposta():
 
     st_lottie("https://lottie.host/a5fb7cda-05a3-4122-ad45-8552bb141df8/66S5qqrFpl.json")
 
-
-st.set_page_config(
-    page_title="Piadas sem sentido",
-    page_icon="random",
-    layout="wide",
-    initial_sidebar_state="collapsed",
-    menu_items={
-        'Get Help': 'https://streamlit.io/',
-        'Report a bug': "https://streamlit.io/",
-        'About': "# Piadas sem sentido. Com opções de tradução!"
-    }
-)
-
 st.title('Piadas sem sentido')
 
 mostrar_resposta()
